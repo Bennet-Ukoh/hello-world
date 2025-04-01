@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+## React Mini Project: Hello World
+
+## Objective
+The goal of this assessment is to set up a basic React project and render a simple "Hello World" message in the web browser. This will test your ability to initialize a React project and understand fundamental React concepts.
+>>>>>>> 1b0faa9ca1ed4ee2ea63526e3bf799c9cf16607d
